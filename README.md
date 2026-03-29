@@ -26,7 +26,7 @@ Browse the templates above, choose the framework you want to work with, and fork
 ### 2. Install the GetWebstack CLI
 
 ```bash
-npm install -g gws
+curl -sSL https://getwebstack.com/install.sh | bash
 ```
 
 ### 3. Initialise the project
