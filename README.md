@@ -23,15 +23,23 @@ A set of ready-to-run "Hello World" backend templates for the most popular JavaS
 
 Sign up for a free account at [app.getwebstack.com](https://app.getwebstack.com). You'll need it to initialise and manage your projects with the `gws` CLI.
 
-### 3. Pick a template and fork it
+### 2. Pick a template and fork it
 
 Browse the templates above, choose the framework you want to work with, and fork that repository into your own GitHub account.
 
-### 4. Install the GetWebstack CLI
+### 3. Install the GetWebstack CLI
 
 ```bash
 curl -sSL https://getwebstack.com/install.sh | bash
 ```
+
+### 4. Log in to GetWebstack
+
+```bash
+gws login
+```
+
+This authenticates the CLI with your GetWebstack account.
 
 ### 5. Initialise the project
 
