@@ -1,0 +1,30 @@
+[submodule "nestjs"]
+	path = nestjs
+	url = git@github.com:GetWebstack-public/nestjs.git
+[submodule "nodejs-adonisjs"]
+	path = nodejs-adonisjs
+	url = git@github.com:GetWebstack-public/nodejs-adonisjs.git
+[submodule "nodejs-elysia"]
+	path = nodejs-elysia
+	url = git@github.com:GetWebstack-public/nodejs-elysia.git
+[submodule "nodejs-express"]
+	path = nodejs-express
+	url = git@github.com:GetWebstack-public/nodejs-express.git
+[submodule "nodejs-fastify"]
+	path = nodejs-fastify
+	url = git@github.com:GetWebstack-public/nodejs-fastify.git
+[submodule "nodejs-graphql-yoga"]
+	path = nodejs-graphql-yoga
+	url = git@github.com:GetWebstack-public/nodejs-graphql-yoga.git
+[submodule "nodejs-hono"]
+	path = nodejs-hono
+	url = git@github.com:GetWebstack-public/nodejs-hono.git
+[submodule "nodejs-koa"]
+	path = nodejs-koa
+	url = git@github.com:GetWebstack-public/nodejs-koa.git
+[submodule "nodejs-trpc"]
+	path = nodejs-trpc
+	url = git@github.com:GetWebstack-public/nodejs-trpc.git
+[submodule "typescript-generic"]
+	path = typescript-generic
+	url = git@github.com:GetWebstack-public/typescript-generic.git
