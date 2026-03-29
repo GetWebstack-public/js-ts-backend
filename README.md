@@ -57,7 +57,7 @@ This discovers the application and generates the necessary configuration files t
 gws up
 ```
 
-The application will build and start locally. Each template returns a simple `Hello World` response to confirm everything is working.
+This builds the application and starts it in a local Kubernetes cluster. Each template returns a simple `Hello World` response to confirm everything is working.
 
 ### 7. Start developing
 
