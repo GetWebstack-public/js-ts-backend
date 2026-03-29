@@ -72,3 +72,9 @@ Looking for a frontend + backend starting point? Check out the fullstack templat
 | Template | Description |
 |----------|-------------|
 | [react-express-multi-repo](https://github.com/GetWebstack-public/react-express-multi-repo) | React frontend with an Express backend |
+
+## Other Template Collections
+
+| Collection | Description |
+|------------|-------------|
+| [go-projects](https://github.com/GetWebstack-public/go-projects) | Hello World templates for Go backends |
