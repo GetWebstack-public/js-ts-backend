@@ -64,3 +64,11 @@ This builds the application and starts it in a local Kubernetes cluster. Each te
 The templates are intentionally minimal — just enough to get a working server running. Add routes, middleware, database connections, and anything else your project needs.
 
 > Some templates require secrets (e.g. API keys) to be configured in the GetWebstack app before running. Check the template's own `README.md` for any additional setup steps.
+
+## Fullstack Templates
+
+Looking for a frontend + backend starting point? Check out the fullstack templates:
+
+| Template | Description |
+|----------|-------------|
+| [react-express-multi-repo](https://github.com/GetWebstack-public/react-express-multi-repo) | React frontend with an Express backend |
