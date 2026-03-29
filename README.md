@@ -19,17 +19,21 @@ A set of ready-to-run "Hello World" backend templates for the most popular JavaS
 
 ## Getting Started
 
-### 1. Pick a template and fork it
+### 1. Create a GetWebstack account
+
+Sign up for a free account at [app.getwebstack.com](https://app.getwebstack.com). You'll need it to initialise and manage your projects with the `gws` CLI.
+
+### 3. Pick a template and fork it
 
 Browse the templates above, choose the framework you want to work with, and fork that repository into your own GitHub account.
 
-### 2. Install the GetWebstack CLI
+### 4. Install the GetWebstack CLI
 
 ```bash
 curl -sSL https://getwebstack.com/install.sh | bash
 ```
 
-### 3. Initialise the project
+### 5. Initialise the project
 
 Inside the forked project directory, run:
 
@@ -39,7 +43,7 @@ gws init
 
 This connects the project to GetWebstack, pulls any required configuration, and sets up the local environment.
 
-### 4. Start the application
+### 6. Start the application
 
 ```bash
 gws up
@@ -47,7 +51,7 @@ gws up
 
 The application will build and start locally. Each template returns a simple `Hello World` response to confirm everything is working.
 
-### 5. Start developing
+### 7. Start developing
 
 The templates are intentionally minimal — just enough to get a working server running. Add routes, middleware, database connections, and anything else your project needs.
 
