@@ -49,7 +49,7 @@ Inside the forked project directory, run:
 gws init
 ```
 
-This connects the project to GetWebstack, pulls any required configuration, and sets up the local environment.
+This discovers the application and generates the necessary configuration files to run it locally.
 
 ### 6. Start the application
 
