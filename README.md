@@ -78,3 +78,5 @@ Looking for a frontend + backend starting point? Check out the fullstack templat
 | Collection | Description |
 |------------|-------------|
 | [go-projects](https://github.com/GetWebstack-public/go-projects) | Hello World templates for Go backends |
+| [js-ts-frontend](https://github.com/GetWebstack-public/js-ts-frontend) | Hello World templates for JavaScript and TypeScript frontends |
+| [python-projects](https://github.com/GetWebstack-public/python-projects) | Hello World templates for Python backends |
